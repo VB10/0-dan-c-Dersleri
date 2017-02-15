@@ -1,0 +1,5 @@
+/Users/vb/Projects/Ayse1Deneme/Ayse1Deneme/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/vb/Projects/Ayse1Deneme/Ayse1Deneme/bin/Debug/Ayse1Deneme.exe.mdb
+/Users/vb/Projects/Ayse1Deneme/Ayse1Deneme/bin/Debug/Ayse1Deneme.exe
+/Users/vb/Projects/Ayse1Deneme/Ayse1Deneme/obj/x86/Debug/Ayse1Deneme.exe
+/Users/vb/Projects/Ayse1Deneme/Ayse1Deneme/obj/x86/Debug/Ayse1Deneme.exe.mdb
